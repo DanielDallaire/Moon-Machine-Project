@@ -1,2 +1,4 @@
 # Moon-Machine-Project
-A game I programmed in python utilizing a non-built in library called pygame. Last edited: 2015
+Last edited: Spring 2015 
+A game I programmed in python utilizing a non-built in library called pygame. 
+Note that this does not reflect my current abilities or programming style 
