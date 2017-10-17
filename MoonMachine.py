@@ -1,4 +1,4 @@
-## Moon Man 
+## Moon Machine 
 
 ## --- Importing Libraries --- ##
 import random, pygame, os, math 
